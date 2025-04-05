@@ -24,7 +24,7 @@ A creative with a zest for development and a keen interest in exploring and adop
 ## 📮 Connect with Me!
 
 <p align="left">
-    <a href="mailto:aditya17lal@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email" width="60" height="60"/></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/aditya17lal/"><img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="50" height="55"/></a>
+    <a href="mailto:aditya03lal@gmail.com"><img src="https://www.svgrepo.com/show/452213/gmail.svg" alt="Email" width="60" height="60"/></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aditya03lal/"><img src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="LinkedIn" width="50" height="55"/></a>
 </p>
 
