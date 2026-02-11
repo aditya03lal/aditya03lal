@@ -136,3 +136,137 @@
 - Expected priorities: digital infrastructure, BRICS payment systems, counter-terrorism, reform of multilateral institutions
 - India's balancing act: managing China tensions while cooperating, maintaining strategic autonomy (Quad vs BRICS)
 - Key challenge: managing diverse interests among expanded membership with competing geopolitical priorities
+
+----------------------------------------
+
+1. Reliance Industries (RIL)
+
+    Turnover/Valuation: ~₹10.7 Lakh Cr (Revenue)
+    Key Subsidiaries: Jio Platforms, Reliance Retail, Reliance New Energy, Viacom18.
+    Dhirubhai Ambani Giga Complex
+    : 5,000-acre site in Jamnagar; Battery Giga Factory (40 GWh) and Electrolyser factory
+    both operational/scaling in 2026.
+    Kutch Solar
+    : Developing a 550,000-acre site; targeting 10% of India’s power demand.
+    Jio AI: Launch of "Reliance Intelligence" and AI-as-a-Service with Google/Meta; 5G AI plans live.
+
+2. Tata Group
+
+    Turnover/Valuation: ~₹15.3 Lakh Cr (Revenue)
+    Key Subsidiaries: Tata Motors (JLR), TCS, Tata Power, Tata Electronics, Air India.
+    Manufacturing: Panapakkam Plant (TN) operational for JLR/EVs; 100% green energy powered.
+    EV Pipeline: Launching Sierra EV, Safari EV, and the flagship Avinya series.
+    Semiconductors: Tata Electronics scaling the Dholera Fab and Assam ATMP units.
+
+3. Adani Group
+
+    Turnover/Valuation: ~₹2.7 Lakh Cr (Revenue)
+    Key Subsidiaries: Adani Green Energy, Adani Enterprises, Adani Ports, ACC/Ambuja Cements.
+    Dharavi Project
+    : Execution phase of Asia’s largest urban redevelopment hub in Mumbai.
+    Data Centres: Developing 3,000 MW capacity via Green Data Centre Parks in Maharashtra.
+    BESS
+    : 1126 MW Battery Storage facility in Ahmedabad—one of the world’s largest single-location units.
+
+4. Aditya Birla Group
+
+    Turnover/Valuation: ~$67 Billion (Revenue)
+    Key Subsidiaries: Hindalco, Grasim, UltraTech Cement, Aditya Birla Fashion & Retail.
+    Metals (Hindalco): $6B expansion plan; major new Aluminium and Copper capacities online this year.
+    Renewables: Rapid scaling of hybrid (Wind-Solar) projects in Gujarat and MP via Aditya Birla Renewables.
+    Real Estate: Aggressive expansion of "Birla Estates" luxury portfolio in Tier-1 cities.
+
+----------------------------------------
+
+Tata Electronics (Dholera Fab): India’s flagship ₹91,000 crore semiconductor fabrication plant in partnership with Taiwan’s PSMC. It is focused on 28nm chips for power management and automotive sectors.
+Micron Technology (Sanand ATMP): A ₹22,500 crore memory packaging facility that has begun commercial rollout of India-made DRAM and NAND flash modules for global markets.
+CG Power & Industrial Solutions (Sanand OSAT): A ₹7,600 crore joint venture with Renesas (Japan) and Stars Microelectronics (Thailand). The facility is scaling production of legacy chips for consumer electronics and industrial applications.
+Kaynes Semicon (Sanand): A ₹3,300 crore advanced packaging facility specializing in high-performance computing and EV power modules, recently integrated into the Gujarat semiconductor cluster.
+Suchi Semicon (Surat): Gujarat’s first OSAT plant in South Gujarat, focusing on semiconductor assembly and testing with an initial investment of ~₹840 crore.
+Vedanta-Foxconn (Dholera - Restructured): While the original JV split, Vedanta is independently progressing on its display and semiconductor fab in Dholera with new technology partners to tap into the ISM incentives.
+
+------------------------------------------
+
+Global Leaders (Revenue/Market Cap Context)
+
+    Nvidia (~$155B+ Rev): Designs AI GPUs and software; the "brain" of the global AI boom.
+    TSMC (~$113B+ Rev): The world’s largest foundry; actually manufactures chips for Apple and Nvidia.
+    Broadcom (~$50B+ Rev): Specialises in connectivity (Wi-Fi/Bluetooth) and data centre networking silicon.
+    Samsung (~$200B+ Total Rev): Global leader in Memory chips (DRAM/NAND) and mobile processors.
+
+Global Giants with Huge India Bases
+
+    Intel: Massive R&D hubs in Bengaluru; focuses on CPU architecture and "Intel Foundry" services.
+    Qualcomm: Dominates mobile/5G modem design; major engineering centres in Hyderabad and Bengaluru.
+    Nvidia India: Focuses on AI software stacks (CUDA) and hardware design for global markets.
+
+Top Indian Players (FY 2025-26 Context)
+
+    Tata Electronics (~₹66k Cr Investment): Building India’s first large-scale commercial Fab and packaging units.
+    Bharat Electronics/BEL (~₹23k Cr Rev): Specialises in strategic/defence chips and aerospace electronics.
+    HCL Tech (~₹34k Cr Semicon/Eng Segment): Provides VLSI design services and R&D for global chipmakers.
+    MosChip Tech: A pure-play Chip Design (ASIC) firm focusing on IoT and networking.
+
+Gujarat Specific (The "New Hub")
+
+    Micron India: First to begin commercial memory packaging (ATMP) in Sanand.
+    CG Power: Leading a major joint venture for OSAT (Packaging & Testing) in Gujarat.
+
+------------------------------------------
+
+Gujarat:
+GDP: 320B $ (4th)
+> Industrial Dominance: Petrochemicals [Petro capital of India] - Reliance Industries, Pharmaceuticals - Zydus Lifesciences, Textiles - Arvind ltd, Jewelry [Surat 90% of world's diamond polishing] - Kiran Gems (Surat), Dairy and Agro processing - Amul (Anand)
+> Connectivity: Ports (Longest coastline in India — 40% of Indian Cargo — 40 + Ports (Major: Mundra)), Extensive road network (75K kms)
+> Pro Business: Entrepreneurial Culture, Pro business policies (Streamlined regulations — Single Window Clearance, Capital subsidies, Land leases), Special economic Zones (Infrastructure + Realiable power) - Dholera, Kandla, GIFT
+
+> How Gujarat can be number 1: Population comparable to Tamil Nadu (Leader in manufacuring + Diverse base in electronics, automotives, textile; Investments in social welfare) however markers like MDP comparable to that of West Bengal. 
+
+> Freedom fighters: Abbas Tyabji (Gandhi associate, led salt march post gandhi arrest), Usha Mehta (Organized the Secret Congress Radio in 1942), Morarji Desai (Quit India movement, Congress secretary in Gujarat)
+> Current prominent people: Pankaj Patel (Chairman of Zydus group), Sudhir and Samir Mehta (Chairmen of Torrent group)
+> Companies: Adiance (Hardik Sanghvi), Hyperlab (Hitarth Parikh), PetPooja (Parthiv Patel), LendingKart, Ignosis (Fintech), Rocket (Software Dev, Surat)
+
+> Gujarat: CM - Bhupendra Patel, Governer - Acharya Devvrat, Director General: KLN Rao
+> Ahmedabad- Collector/DM: Sujeet Kumar, Municipal commisioner: Banchnidhi Pani, Police commisioner: Gyanender Malik
+Second in cotton after Kanpur. Main industries: Textiles (Houses ATIRA), Chemicals [Meghmani Organics, Nirma Ltd], Pharmaceuticals [Zydus, Torrent Pharma] (136 B $)
+Houses: Adani, Wagh Bakri, Cadila etc.
+> Surat: Diamonds, Textiles, Petrochemicals (59.8 B $)
+
+torrent (~₹45,000 Crore.) - power, pharma, gas
+zydus lifesciences (₹25,000 Crore.) - 41% rev from north america
+
+
+Bihar:
+GDP: 130B $ (14th)
+> Major Industries: Food Processing, Textile/Garments, Leather, Paper and Packaging
+> Why behind: Stagnant Manufacturing for long (5-6%), Corrupt and inefficient governance, Old wounds (Permanent Settlement, Freight Equalization - Lack of Industrialization, Jharkhand bifurcation)
+> Poor socio-economic markers, Caste-based politics, Migration
+> JDU/NDA wins because manufacturing as a part of its GDP has matured from 5-6% to 20-21%, investments in roads, hotels, airports, freebies are a part even if small. Remittance is expected to go up to 65% of bihars economy in the coming years (isnt a bad thing), bihar progess is very slow and its takes a very long time for people to see changes
+
+> Freedom fighters: Kunwar Singh (Ruler, revolted in 1857), Rajendra Prasad (Part of the Champaran struggle), Jayaprakash Narayan, Yogendra Shukla
+> Prominent People: Anil Agarwal (Vedanta Group), Subrata Roy (Sahara group) 
+> Companies: DeHaat (Online marketplace for farmers), Ergos (Digital grain wallet for farmers), MClinic (Offline/Online health services)
+
+> Bihar: CM: Nitish Kumar, Governer: Arif Khan, Director General: Vinay Kumar
+> Patna: Collector: Rajiv Shrivastav, MC: Yashpal Meena
+
+Maharashtra:
+GDP: 580 B $ (1st)
+> Freedom fighters: Bal Gangadhar Tilak, Nana Patil, Ambedkar, Jyotiba and Savitri Phule
+> Companies: Zepto, Nykaa (Falguni Nayar), PharmEasy, Acko, Upgrad (Chairman - Ronnie Screwvala on Shark Tank)
+> Industries: Automotives, Petrochemicals, Pharmaceuticals and Biotechnology, IT
+
+> Maharashtra: CM - Devendra Fadnavis, Governer - Acharya Devvrat, Director General - Sadanand Date
+> Mumbai- Collector: Aanchal Goyal, Municipal Commisioner: Bhushan Gagrani, Police Commisioner: Deven Bharti
+Reliance, Tata, Mahindra, Aditya Birla, Godrej
+Finance, IT, Automobiles, Textile, Entertainment
+Jawaharlal Nehru Port - 50% of containerized cargo in India (the second being the mumbai port)
+Water brought through trains from lakes, filtered at bhandup (asia's largest filtration plant)
+
+> iim mumbai: MIG (Marketing Interest Group), Arth - Investment Club, Rotoract Club (Community Service)
+Companies: Upstox, Pine Labs, Jupiter Money, Zepto, Pharmeasy, Urban Company, HDFC/ICICI, Bajaj Finance, TATA Capital, LnT Finance, Mahindra Finance
+> mdi: ThinC (Prodman), Samaritans (Community Service), MILE (MDI Incubation Lab for Entrepreneurship)
+Companies: Zomato/Blinkit, Rapido, Delhivery, DLF, Indigo/Spicejet
+> nmims clubs: Toastmasters, Samvaad (Debate), Finomenon (Stock Market)
+
+icici former ceo: chanda kocchar
