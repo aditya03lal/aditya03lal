@@ -172,7 +172,7 @@ Israel-Palestine
 
 1. Reliance Industries (RIL)
 
-    Turnover/Valuation: ~₹10.7 Lakh Cr (Revenue)
+    Revenue: 120B, Market Cap 205B
     Key Subsidiaries: Jio Platforms, Reliance Retail, Reliance New Energy, Viacom18.
     Dhirubhai Ambani Giga Complex
     : 5,000-acre site in Jamnagar; Battery Giga Factory (40 GWh) and Electrolyser factory
@@ -183,16 +183,16 @@ Israel-Palestine
 
 2. Tata Group
 
-    Turnover/Valuation: ~₹15.3 Lakh Cr (Revenue)
-    Key Subsidiaries: Tata Motors (JLR), TCS, Tata Power, Tata Electronics, Air India.
+    Revenue: 180B
+    Key Subsidiaries: TCS (95B), Tata Steel (26B), Tata Motors (16B), Tata Power (14B), Tata Electronics, Air India.
     Manufacturing: Panapakkam Plant (TN) operational for JLR/EVs; 100% green energy powered.
     EV Pipeline: Launching Sierra EV, Safari EV, and the flagship Avinya series.
     Semiconductors: Tata Electronics scaling the Dholera Fab and Assam ATMP units.
 
 3. Adani Group
 
-    Turnover/Valuation: ~₹2.7 Lakh Cr (Revenue)
-    Key Subsidiaries: Adani Green Energy, Adani Enterprises, Adani Ports, ACC/Ambuja Cements.
+    Revenue: 32B
+    Key Subsidiaries: Adani Ports (35B), Adani Power (32B), Adani Enterprises (29.5), Adani Green Energy (16B)
     Dharavi Project
     : Execution phase of Asia’s largest urban redevelopment hub in Mumbai.
     Data Centres: Developing 3,000 MW capacity via Green Data Centre Parks in Maharashtra.
@@ -201,8 +201,8 @@ Israel-Palestine
 
 4. Aditya Birla Group
 
-    Turnover/Valuation: ~$67 Billion (Revenue)
-    Key Subsidiaries: Hindalco, Grasim, UltraTech Cement, Aditya Birla Fashion & Retail.
+    Turnover/Valuation: $67 Billion (Revenue)
+    Key Subsidiaries: UltraTech Cement (36B), Hindalco (22.5), Grasim (20B), Aditya Birla Fashion & Retail (4.5B > 0.7B)
     Metals (Hindalco): $6B expansion plan; major new Aluminium and Copper capacities online this year.
     Renewables: Rapid scaling of hybrid (Wind-Solar) projects in Gujarat and MP via Aditya Birla Renewables.
     Real Estate: Aggressive expansion of "Birla Estates" luxury portfolio in Tier-1 cities.
