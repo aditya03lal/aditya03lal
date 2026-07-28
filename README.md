@@ -2,7 +2,7 @@
 
 ## ☀ About Me
 
-A creative with a zest for development and a keen interest in exploring and adopting new technologies. Keen to leverage and enhance my competency in spaces where ideas can flourish. Currently focused on developing new projects and strengthening my foundation in data structures and algorithms.
+A creative with a zest for development, always exploring new technologies and looking for problems worth solving. Currently building my foundation in data structures and algorithms.
 
 ## 💻 My Tech Stack
 
